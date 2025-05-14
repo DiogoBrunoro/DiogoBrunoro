@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Diogo Caribe Brunoro. Atualmente, estou cursando Engenharia de Software na PUCMG.
+Me chamo Diogo Caribe Brunoro, tenho 20 anos, sou natural da Bahia mas hoje em dia estou moranfo em Belo Horizonte . Atualmente, estou cursando Engenharia de Software na PUCMG.
 
 <p align="left">
     <a href="https://github.com/DiogoBrunoro?tab=repositories&sort=stargazers">
